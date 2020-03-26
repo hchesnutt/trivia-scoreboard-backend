@@ -1,0 +1,16 @@
+
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### env ###
+.env
+venv/
+
+### Python ###
+
+# Compiled python files
+__pycache__/
+*.py[cod]
